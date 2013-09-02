@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: false
-title: "Something-New"
+title: Good Night
 ---
 
 ## Do not go gentle into that good night
